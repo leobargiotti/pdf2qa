@@ -18,7 +18,7 @@ This project uses Google Gemini's large language model to generate questions and
 
 1. Clone the repository:
    ```bash
-   git clone <repository_url>
+   git clone https://github.com/leobargiotti/pdf2qa
    ```
 2. Create a virtual environment (recommended):
    ```bash
